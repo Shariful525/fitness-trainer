@@ -8,7 +8,7 @@ import './Navbar.css'
 const Navbar = () => {
     return (
         <nav>
-            <div className='container nav_container'>
+            <div className='container'>
                 <Link>
                     <img src={logo} alt='navLogo'></img>
                 </Link>

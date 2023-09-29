@@ -2,4 +2,18 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Open Sans", sans-serif;
+    /* background-color: red; */
 }
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    border: 0;
+    outline: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+:root {}
